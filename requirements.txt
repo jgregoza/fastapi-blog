@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 anyio==3.3.2
 asgiref==3.4.1
 click==8.0.1
@@ -10,3 +11,17 @@ sniffio==1.2.0
 starlette==0.16.0
 typing-extensions==3.10.0.2
 uvicorn==0.15.0
+=======
+anyio==3.3.2
+asgiref==3.4.1
+click==8.0.1
+colorama==0.4.4
+fastapi==0.70.0
+h11==0.12.0
+idna==3.2
+pydantic==1.8.2
+sniffio==1.2.0
+starlette==0.16.0
+typing-extensions==3.10.0.2
+uvicorn==0.15.0
+>>>>>>> e06dcb9e6394df66d8c9663aad0c2d06fd4dff71

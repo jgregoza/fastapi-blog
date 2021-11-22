@@ -8,8 +8,8 @@ from starlette.status import HTTP_204_NO_CONTENT
 # Instanciado la app
 
 app = FastAPI(
-    title="REST API with FastAPI and MongoDB",
-    description="Simple REST API using fastapi and mongodb",
+    title="REST API with FastAPI",
+    description="Simple REST API using fastapi",
     version="0.0.1"
 )
 
